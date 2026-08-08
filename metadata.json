@@ -1,0 +1,6 @@
+{
+  "name": "From Your Tita",
+  "description": "A heartwarming motivational space with personal encouraging letters, interactive relaxing games, daily bible verses and inspiring words.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
